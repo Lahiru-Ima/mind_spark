@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027717793901",
+    "project_id": "mind-spark",
+    "storage_bucket": "mind-spark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027717793901:android:e76ae41e6d61b1572a5764",
+        "android_client_info": {
+          "package_name": "com.example.mind_spark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027717793901-2ev508jm2u8773iqutu005rnpl3dfsjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBpw5d5SLbAKRoyRTzlO67bGo6SdAiOiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027717793901-2ev508jm2u8773iqutu005rnpl3dfsjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
